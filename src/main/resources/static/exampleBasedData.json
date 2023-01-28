@@ -1,0 +1,74 @@
+{
+  "nhits": 26,
+  "parameters": {
+    "dataset": "mobilite-parkings-grand-poitiers-donnees-metiers",
+    "rows": 1,
+    "start": 0,
+    "facet": [
+      "nom_du_parking",
+      "zone_tarifaire",
+      "statut2",
+      "statut3"
+    ],
+    "format": "json",
+    "timezone": "UTC"
+  },
+  "records": [
+    {
+      "datasetid": "mobilite-parkings-grand-poitiers-donnees-metiers",
+      "recordid": "e24d0474ce8282db403e8cbf61c94069c1b89460",
+      "fields": {
+        "nb_pmr": 2,
+        "nb_voiture": 0,
+        "nb_2_rm": 0,
+        "tarif_4h": "3,2",
+        "url": "https://www.poitiers.fr/c__246_993__Tarifs_des_parkings.html",
+        "tarif_3h": "2,4",
+        "f_2h15": "1,8",
+        "hauteur_ma": 0,
+        "num_siret": "218 601 946     00658",
+        "type_ouvra": "ENCLOS_EN_SURFACE",
+        "tarif_2h": "1,6",
+        "type_usage": "tous",
+        "abo_non_re": "oui",
+        "nom_du_par": "PALAIS DE JUSTICE",
+        "tarif_1h": "0,8",
+        "nom": "PALAIS DE JUSTICE",
+        "xlong": 0.35129543,
+        "geo_point_2d": [
+          46.58595804860371,
+          0.3512954265806957
+        ],
+        "nb_2r_el": 0,
+        "info": "Parking en enclos sous barri\u00e9res payant de 9h \u00e0 19h du lundi au samedi, gratuit dimanche et jours f\u00e9ri\u00e9s.",
+        "nb_velo": 0,
+        "nb_autopar": 0,
+        "geo_shape": {
+          "coordinates": [
+            0.351295426580696,
+            46.58595804860371
+          ],
+          "type": "Point"
+        },
+        "ylat": 46.58595805,
+        "id": "F4604__1923",
+        "insee": 86194,
+        "adresse": "Boulevard De Lattre de Tassigny",
+        "tarif_24h": "8",
+        "gml_id": "Parkings.3",
+        "gratuit": 0,
+        "nb_places": 140,
+        "abo_reside": "non",
+        "nb_covoit": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3512954265806957,
+          46.58595804860371
+        ]
+      },
+      "record_timestamp": "2023-01-20T12:52:12.677Z"
+    }
+  ]
+}
